@@ -1,2 +1,3 @@
 # Calculator
-a simple calculator written with python
+Simple calculator written with python
+![alt text](https://github.com/mahditehrani12/Calculator/blob/master/Capture.JPG)
